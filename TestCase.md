@@ -29,7 +29,7 @@
 | 2 | After pressing start the player is prompted to start a new game | The User is able to start a new game | |			
 | 3 | Player is then prompted to select story or Infinite attack mode | The User is prompted to select one of the two game modes | |			
 | 4 | Select story mode | User is able to select the story mode, the proper environment is then loaded | |			
-| 5 | Evaluate does the game load the right setting, if not indicate failure  | The proper environment is loaded for story mode | |			
+| 5 | Evaluate does the game load the right setting for the Single Player Mode, if not indicate failure  | The proper environment is loaded for story mode | |			
 | 6 | | | |			
 | 7 | | | |			
 | 8 | | | |			
